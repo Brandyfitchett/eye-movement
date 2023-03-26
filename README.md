@@ -15,5 +15,5 @@ Download the zip file.
 Open the zip file.
 Drag and drop the html file onto a browser page
 
- 
+<img src="Eyes.png" alt="Picture of Eyes" width="300">
 
